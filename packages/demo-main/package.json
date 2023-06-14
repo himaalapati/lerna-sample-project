@@ -1,5 +1,5 @@
 {
-  "name": "@demo/demo-main",
+  "name": "@lerna-sample-project/demo-main",
   "version": "0.0.0",
   "description": "> TODO: description",
   "author": "Hima Bindu <himabindu.alapati1@gmail.com>",
@@ -12,6 +12,9 @@
   "files": [
     "lib"
   ],
+  "scripts": {
+    "start": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/himaalapati/lerna-sample-project.git"
