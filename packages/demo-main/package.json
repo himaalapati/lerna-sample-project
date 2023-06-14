@@ -1,0 +1,22 @@
+{
+  "name": "@demo/demo-main",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Hima Bindu <himabindu.alapati1@gmail.com>",
+  "homepage": "https://github.com/himaalapati/lerna-sample-project#readme",
+  "license": "ISC",
+  "main": "lib/demo-main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himaalapati/lerna-sample-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/himaalapati/lerna-sample-project/issues"
+  }
+}
